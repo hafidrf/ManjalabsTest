@@ -15,7 +15,6 @@ This app is a **String Validator** tool designed to check and validate specific 
 
 ## Design Pattern
 - **MVVM Architecture**: Utilizes a clear separation between the UI and business logic for better testability and maintainability.
-- **Clean Code Principles**: Organized code structure with UseCases, Repository, and Service Layers.
 
 ## Libraries Used
 | Functional Area      | Library Name           | Source                                              |
