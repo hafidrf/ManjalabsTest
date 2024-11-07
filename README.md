@@ -26,4 +26,9 @@ This app is a **String Validator** tool designed to check and validate specific 
 | Dependency Injection | Koin                   | https://insert-koin.io/                             |
 
 ## Video Capture
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtube.com/shorts/-InpBQTkk3o?feature=share)
+
+[//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg&#41;]&#40;https://youtube.com/shorts/-InpBQTkk3o?feature=share&#41;)
+<video width="400" controls>
+  <source src="https://youtube.com/shorts/-InpBQTkk3o?feature=share&#41" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
