@@ -26,4 +26,4 @@ This app is a **String Validator** tool designed to check and validate specific 
 | Dependency Injection | Koin                   | https://insert-koin.io/                             |
 
 ## Video Capture
-[Watch demo video](https://github.com/hafidrf/ManjalabsTest/blob/master/vresult.mp4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtube.com/shorts/-InpBQTkk3o?feature=share)
