@@ -16,19 +16,13 @@ This app is a **String Validator** tool designed to check and validate specific 
 ## Design Pattern
 - **MVVM Architecture**: Utilizes a clear separation between the UI and business logic for better testability and maintainability.
 - **Clean Code Principles**: Organized code structure with UseCases, Repository, and Service Layers.
-- **Dependency Injection**: Using Koin for flexible and testable components.
 
 ## Libraries Used
 | Functional Area      | Library Name           | Source                                              |
 |----------------------|------------------------|-----------------------------------------------------|
 | Animation            | Lottie                 | https://airbnb.io/lottie/#/android                  |
 | UI Animation & Transition | Jetpack Compose Animation | https://developer.android.com/jetpack/compose/animation |
-| Dependency Injection | Koin                   | https://insert-koin.io/                             |
 
 ## Video Capture
+[![Watch the video](https://img.youtube.com/vi/-InpBQTkk3o/maxresdefault.jpg)](https://www.youtube.com/shorts/-InpBQTkk3o)
 
-[//]: # ([![Watch the video]&#40;https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg&#41;]&#40;https://youtube.com/shorts/-InpBQTkk3o?feature=share&#41;)
-<video width="400" controls>
-  <source src="https://youtube.com/shorts/-InpBQTkk3o?feature=share&#41" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
